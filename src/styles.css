@@ -70,7 +70,7 @@
 
 .data-row .key-value-wrapper {
   display: flex;
-  align-items: center;
+  align-items: top;
 }
 
 .data-row .key {
@@ -181,7 +181,7 @@
 }
 
 .data-row .value .value-data {
-  word-break: break-all;
+  word-break: break-word;
 }
 
 .show-data-types .data-row .value .type {
